@@ -229,4 +229,6 @@ return [
 
     ],
 
+
+    'url_base' => env('APP_URL_BASE', 'http://localhost'),
 ];
